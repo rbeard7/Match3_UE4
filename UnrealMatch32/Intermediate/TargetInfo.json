@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealMatch3",
+			"Path": "C:\\Users\\Optimal State\\Documents\\GitHub\\Match3_UE4\\UnrealMatch32\\Source\\UnrealMatch3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealMatch3Editor",
+			"Path": "C:\\Users\\Optimal State\\Documents\\GitHub\\Match3_UE4\\UnrealMatch32\\Source\\UnrealMatch3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
